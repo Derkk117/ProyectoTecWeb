@@ -34,3 +34,28 @@ main p{
     width: 63px;
     border: solid 1px white;
 }
+footer{
+    padding: 5px;
+    background-color: rgb(40, 40, 40);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+footer img{
+    width: 30px;
+    border-radius: 20%;
+}
+footer ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+footer li{
+    padding: 10px;
+}
+footer p{
+    margin-top: 10px;
+}
