@@ -1,0 +1,11 @@
+main{
+    background: url(/Imagenes/Back_Ground.png) no-repeat center top;
+    background-size: cover;
+    color:white;
+    padding:100px 0 100px 15%;
+}
+main p{
+    margin-top: 30px;
+    width: 63px;
+    border: solid 1px white;
+}
