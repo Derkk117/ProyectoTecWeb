@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    padding: 5px;
+    background-color: rgb(40, 40, 40);
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+nav li{
+    padding: 10px 10px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+main{
+    background: url(/Imagenes/Back_Ground.png) no-repeat center top;
+    background-size: cover;
+    color:white;
+    padding:100px 0 100px 15%;
+}
+main p{
+    margin-top: 30px;
+    width: 63px;
+    border: solid 1px white;
+}
