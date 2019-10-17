@@ -9,3 +9,6 @@ main p{
     width: 63px;
     border: solid 1px white;
 }
+article{
+    margin: 5% 10%;
+}
